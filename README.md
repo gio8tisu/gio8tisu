@@ -5,7 +5,7 @@
 programming_languages:
   - Python
   - JavaScript
-  - Go (learning)
+  - Go
 stack:
   backend:
     - Django
@@ -13,6 +13,7 @@ stack:
     - Celery
    frontend:
     - React
+    - Vue.js
    database:
     - PostgreSQL
     - MongoDB
@@ -34,5 +35,5 @@ dev_tools:
   OS: Unix-based (MacOS & Ubuntu)
 ```
 
-<img src="general_stats.svg" alt="GitHub Statistics" loading="lazy">
-<img src="language_stats.svg" alt="Top Languages" loading="lazy">
+[![Readme Card](https://github-readme-stats.vercel.app/api/?username=gio8tisu)](https://github.com/gio8tisu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gio8tisu&hide=jupyter%20notebook,tex&layout=donut)](https://github.com/gio8tisu)
